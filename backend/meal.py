@@ -275,7 +275,7 @@ def main():
     print("🍽️ Smart Meal Recommendation System 🧠")
     print(" With Dietary Preference Filtering \n")
     test_harness()
-    print("\n✅ Test Completed!")
+    print("\nTest Completed!")
 
 if __name__ == "__main__":
     main()
